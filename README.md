@@ -1,16 +1,76 @@
-# React + Vite
+# Geometry Calc
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Geometry Calc** é uma aplicação web desenvolvida para o cálculo de áreas de diferentes formas geométricas, permitindo que o usuário insira valores específicos e visualize tanto o resultado do cálculo quanto informações teóricas sobre cada forma.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📐 Sobre o projeto
 
-## React Compiler
+Este projeto foi criado em **2024**, durante o **Programa Proprofissão do Instituto Proa**, como parte do **curso de Desenvolvimento Web**.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+O objetivo do projeto foi desenvolver uma página web capaz de:
+- Realizar cálculos de áreas de formas geométricas
+- Receber valores do usuário por meio de inputs
+- Exibir o resultado do cálculo de forma clara
+- Apresentar informações sobre cada forma geométrica
+- Explicar como o cálculo matemático da área é realizado
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🔢 Formas geométricas disponíveis
+
+Atualmente, o site permite o cálculo das seguintes formas:
+
+- Círculo  
+- Cubo  
+- Retângulo  
+- Romboedro  
+- Trapézio  
+- Polígono regular:
+  - Pentágono
+  - Hexágono
+  - Heptágono
+- Quadrado  
+- Cuboide  
+
+---
+
+## 🎨 Estilização e layout
+
+- O projeto utiliza **CSS básico**
+- Possui adaptação para diferentes tamanhos de janela em **telas de computador**
+- Ao redimensionar a tela, textos e imagens se ajustam para permanecer visíveis
+- ❗ O layout **não foi testado para dispositivos móveis** (mobile)
+
+---
+
+## 🚀 Atualização do projeto (2026)
+
+No início de **2026**, o projeto passou por uma atualização técnica importante:
+
+### 🔄 Migração de CRA para Vite
+
+- O projeto originalmente utilizava **Create React App (CRA)**
+- Como o CRA foi **descontinuado**, o projeto foi migrado para:
+  - **Vite** (ferramenta de build moderna e mais rápida)
+  - **pnpm** como gerenciador de pacotes
+
+### Benefícios da migração:
+- Inicialização mais rápida do projeto
+- Build mais eficiente
+- Estrutura moderna e alinhada às práticas atuais do ecossistema React
+- Melhor manutenção a longo prazo
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+- React
+- React Router DOM
+- Vite
+- pnpm
+- gh-pages
+- JavaScript
+- HTML
+- CSS
+
