@@ -69,7 +69,6 @@ No início de **2026**, o projeto passou por uma atualização técnica importan
 - React Router DOM
 - Vite
 - pnpm
-- gh-pages
 - JavaScript
 - HTML
 - CSS
