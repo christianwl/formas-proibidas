@@ -1,7 +1,7 @@
 import '../../../assets/css/areaDeCalculo.css'
 
-import InfoCalculo from './InfoCalculo.js'
-import Calcular from './Calcular.js';
+import InfoCalculo from './InfoCalculo'
+import Calcular from './Calcular';
 
 export default function AreaDeCalculo(props) {
     return (

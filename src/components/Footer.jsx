@@ -9,7 +9,7 @@ export default function Footer(){
             <p style={{
                 textAlign: 'center',
                 fontSize: '20px'
-            }}>Desenvolvido por Geometry Calc Team</p>
+            }}>Desenvolvido por christianwl</p>
         </div>
     )
 }

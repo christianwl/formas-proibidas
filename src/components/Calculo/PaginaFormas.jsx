@@ -3,10 +3,10 @@ import { useEffect } from 'react';
 
 import '../../assets/css/paginaFormas.css'
 
-import Header from '../Header.js';
-import Footer from '../Footer.js'
-import BannerForma from './BannerCalculo/BannerForma.js'
-import AreaDeCalculo from './ConteudoCalculo/AreaDeCalculo.js';
+import Header from '../Header';
+import Footer from '../Footer'
+import BannerForma from './BannerCalculo/BannerForma'
+import AreaDeCalculo from './ConteudoCalculo/AreaDeCalculo';
 
 import circulo from '../../assets/img/circulo.png'
 import cubo from '../../assets/img/Cubo.svg'

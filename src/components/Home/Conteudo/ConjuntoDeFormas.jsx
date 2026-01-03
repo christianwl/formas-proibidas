@@ -1,6 +1,6 @@
 import '../../../assets/css/conjuntoDeFormas.css';
 
-import Formas from './Formas.js';
+import Formas from './Formas';
 
 import circulo from '../../../assets/img/circulo.png';
 import cubo from '../../../assets/img/Cubo.svg';

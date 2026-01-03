@@ -40,8 +40,8 @@ export default function Calcular({ props }) {
     };
 
     const renderInputs = () => {
-        const inputs = props.label.map((campo) => (
-            <input className='inputs'
+        const inputs = props.label.map((campo, index) => (
+            <input key={index} className='inputs'
                 type='number'
                 placeholder={`Insira o valor de ${campo}`}
                 onChange={valor => setValores(prevState => ({ ...prevState, [campo]: parseFloat(valor.target.value) }))}
@@ -54,7 +54,7 @@ export default function Calcular({ props }) {
     const renderOptions = () => {
         if (props.id === 'poligono') {
             const options = props.tipo.map((nLado, i) => {
-                return <option value={i + 5}>{nLado}</option>
+                return <option key={i} value={i + 5}>{nLado}</option>
             })
 
             return (<select className='options' size={4} onChange={(event) => setPoligonoN(event.target.value)}>
