@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-import './Calcular.css'
+import './Calcular.css';
 
 export default function Calcular({ props }) {
     const [valores, setValores] = useState({});

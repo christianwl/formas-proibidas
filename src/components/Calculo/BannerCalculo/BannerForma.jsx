@@ -1,8 +1,7 @@
-import './BannerForma.css'
+import Figura from './Figura';
+import Texto from './Texto';
 
-import Figura from './Figura'
-import Texto from './Texto'
-
+import './BannerForma.css';
 
 export default function BannerForma(props) {
     return (

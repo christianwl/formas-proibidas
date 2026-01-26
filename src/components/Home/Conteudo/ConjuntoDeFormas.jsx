@@ -1,15 +1,15 @@
-import './ConjuntoDeFormas.css';
-
 import Formas from './Formas';
 
-import circulo from '../../../assets/img/circulo.png';
-import cubo from '../../../assets/img/Cubo.svg';
-import retangulo from '../../../assets/img/Retangulo.svg';
-import romboedro from '../../../assets/img/Romboedro.svg';
-import trapezio from '../../../assets/img/Trapezio.svg';
-import poligono from '../../../assets/img/Poligono.svg';
-import quadrado from '../../../assets/img/Quadrado.svg'
-import cuboide from '../../../assets/img/Cuboide.svg'
+import circulo from '@/assets/img/circulo.png';
+import cubo from '@/assets/img/Cubo.svg';
+import retangulo from '@/assets/img/Retangulo.svg';
+import romboedro from '@/assets/img/Romboedro.svg';
+import trapezio from '@/assets/img/Trapezio.svg';
+import poligono from '@/assets/img/Poligono.svg';
+import quadrado from '@/assets/img/Quadrado.svg';
+import cuboide from '@/assets/img/Cuboide.svg';
+
+import './ConjuntoDeFormas.css';
 
 
 //usar um array.map para colocar todas as informações de uma única vez.

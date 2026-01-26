@@ -1,21 +1,21 @@
 import { useParams, useNavigate} from 'react-router-dom';
 import { useEffect } from 'react';
 
-import './PaginaFormas.css'
-
 import Header from '../Header';
-import Footer from '../Footer'
-import BannerForma from './BannerCalculo/BannerForma'
+import Footer from '../Footer';
+import BannerForma from './BannerCalculo/BannerForma';
 import AreaDeCalculo from './ConteudoCalculo/AreaDeCalculo';
 
-import circulo from '../../assets/img/circulo.png'
-import cubo from '../../assets/img/Cubo.svg'
-import retangulo from '../../assets/img/Retangulo.svg';
-import romboedro from '../../assets/img/Romboedro.svg';
-import trapezio from '../../assets/img/Trapezio.svg';
-import poligono from '../../assets/img/Poligono.svg'
-import quadrado from '../../assets/img/Quadrado.svg'
-import cuboide from '../../assets/img/Cuboide.svg'
+import circulo from '@/assets/img/circulo.png';
+import cubo from '@/assets/img/Cubo.svg';
+import retangulo from '@/assets/img/Retangulo.svg';
+import romboedro from '@/assets/img/Romboedro.svg';
+import trapezio from '@/assets/img/Trapezio.svg';
+import poligono from '@/assets/img/Poligono.svg';
+import quadrado from '@/assets/img/Quadrado.svg';
+import cuboide from '@/assets/img/Cuboide.svg';
+
+import './PaginaFormas.css';
 
 
 var listaFormas = [{

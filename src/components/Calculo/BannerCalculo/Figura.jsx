@@ -1,4 +1,4 @@
-import './Figura.css'
+import './Figura.css';
 
 export default function Figura(props){
     return (

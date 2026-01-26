@@ -1,7 +1,7 @@
-import './AreaDeCalculo.css'
-
-import InfoCalculo from './InfoCalculo'
+import InfoCalculo from './InfoCalculo';
 import Calcular from './Calcular';
+
+import './AreaDeCalculo.css';
 
 export default function AreaDeCalculo(props) {
     return (

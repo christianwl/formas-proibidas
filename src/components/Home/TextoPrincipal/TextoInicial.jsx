@@ -1,4 +1,4 @@
-import './TextoInicial.css'
+import './TextoInicial.css';
 
 export default function TextoInicial() {
     return (

@@ -1,8 +1,8 @@
 import { Link } from 'react-router-dom';
 
-import './Header.css'
+import logoCompleta from '@/assets/img/LogoCompleta.svg';
 
-import logoCompleta from '../assets/img/LogoCompleta.svg';
+import './Header.css'
 
 export default function Header() {
     return (

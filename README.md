@@ -55,11 +55,14 @@ No início de **2026**, o projeto passou por uma atualização técnica importan
   - **Vite** (ferramenta de build moderna e mais rápida)
   - **pnpm** como gerenciador de pacotes
 
-### Benefícios da migração:
+#### Benefícios da migração:
 - Inicialização mais rápida do projeto
 - Build mais eficiente
 - Estrutura moderna e alinhada às práticas atuais do ecossistema React
 - Melhor manutenção a longo prazo
+
+### Uso de Alias `@` para import relativos
+- Alias `@` → `src` (Vite)
 
 ---
 
