@@ -1,4 +1,4 @@
-import '../../../assets/css/bannerForma.css'
+import './BannerForma.css'
 
 import Figura from './Figura'
 import Texto from './Texto'

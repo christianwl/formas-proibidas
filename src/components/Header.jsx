@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 
-import '../assets/css/header.css'
+import './Header.css'
 
 import logoCompleta from '../assets/img/LogoCompleta.svg';
 

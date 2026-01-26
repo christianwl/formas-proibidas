@@ -1,4 +1,4 @@
-import '../../../assets/css/infoCalculo.css'
+import './InfoCalculo.css'
 
 export default function InfoCalculo(props){
     const linhas = props.infoTexto.split('\n');

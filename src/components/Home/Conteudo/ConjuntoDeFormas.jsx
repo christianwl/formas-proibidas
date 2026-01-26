@@ -1,4 +1,4 @@
-import '../../../assets/css/conjuntoDeFormas.css';
+import './ConjuntoDeFormas.css';
 
 import Formas from './Formas';
 

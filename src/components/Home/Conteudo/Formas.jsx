@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 
-import '../../../assets/css/formas.css';
+import './Formas.css';
 
 export default function Formas(props) {
     return (

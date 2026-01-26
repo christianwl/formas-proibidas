@@ -1,4 +1,4 @@
-import '../../../assets/css/texto.css'
+import './Texto.css'
 
 export default function Texto(props){
     const linhas = props.textoForma.split('\n');

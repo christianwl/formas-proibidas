@@ -1,4 +1,4 @@
-import '../../../assets/css/areaDeCalculo.css'
+import './AreaDeCalculo.css'
 
 import InfoCalculo from './InfoCalculo'
 import Calcular from './Calcular';

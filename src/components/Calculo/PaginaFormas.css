@@ -1,5 +1,5 @@
 .bg { 
-    background-image: url('../img/bgCalculo.png');
+    background-image: url('/src/assets/img/bgCalculo.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;

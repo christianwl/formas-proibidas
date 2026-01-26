@@ -1,7 +1,7 @@
 import { useParams, useNavigate} from 'react-router-dom';
 import { useEffect } from 'react';
 
-import '../../assets/css/paginaFormas.css'
+import './PaginaFormas.css'
 
 import Header from '../Header';
 import Footer from '../Footer'
