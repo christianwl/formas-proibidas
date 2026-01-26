@@ -73,3 +73,10 @@ No início de **2026**, o projeto passou por uma atualização técnica importan
 - HTML
 - CSS
 
+## Autor
+
+<div>
+  <a href="https://github.com/christianwl">
+    <img src="https://contrib.rocks/image?repo=christianwl/formas-proibidas" alt="Autor do Portfolio"/>
+  </a>
+</div>
