@@ -1,13 +1,13 @@
 import Formas from './Formas';
 
-import circulo from '@/assets/img/circulo.png';
-import cubo from '@/assets/img/Cubo.svg';
-import retangulo from '@/assets/img/Retangulo.svg';
-import romboedro from '@/assets/img/Romboedro.svg';
-import trapezio from '@/assets/img/Trapezio.svg';
-import poligono from '@/assets/img/Poligono.svg';
-import quadrado from '@/assets/img/Quadrado.svg';
-import cuboide from '@/assets/img/Cuboide.svg';
+import circulo from '@/assets/img/formas/circulo.png';
+import cubo from '@/assets/img/formas/Cubo.svg';
+import retangulo from '@/assets/img/formas/Retangulo.svg';
+import romboedro from '@/assets/img/formas/Romboedro.svg';
+import trapezio from '@/assets/img/formas/Trapezio.svg';
+import poligono from '@/assets/img/formas/Poligono.svg';
+import quadrado from '@/assets/img/formas/Quadrado.svg';
+import cuboide from '@/assets/img/formas/Cuboide.svg';
 
 import './ConjuntoDeFormas.css';
 
